@@ -1,1 +1,1 @@
-console.log(1);
+//= ../js/components/modal.js
